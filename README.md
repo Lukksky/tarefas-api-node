@@ -22,3 +22,16 @@
 // Atualiza parametros
 
 ![image](https://github.com/user-attachments/assets/b566611f-6a34-4033-ae3f-d7b25310fec8)
+
+
+#Exceções
+// Falhas e erros
+
+1 - Put, dar update em id inexistente
+
+![image](https://github.com/user-attachments/assets/5be89e1e-b6fb-4e69-997e-2e02477359a9)
+
+
+2 - Delete, deletar tarefa inexistente
+
+![image](https://github.com/user-attachments/assets/77e7bdb6-93f9-4bbf-8d5d-11e6a6d11502)
